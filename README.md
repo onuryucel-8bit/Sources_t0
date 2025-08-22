@@ -17,6 +17,7 @@
 
 ## Other
 
+#### [natureofcode](https://natureofcode.com)
 #### [journal.stuffwithstuff](https://journal.stuffwithstuff.com)
 #### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-3d-renderer)
 #### [project-based-learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)
