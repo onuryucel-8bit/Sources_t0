@@ -10,6 +10,7 @@
 
 ## Cpp
 
+#### [fluentcpp](https://www.fluentcpp.com)
 #### [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
 #### [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming?tab=readme-ov-file)
 #### [LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
