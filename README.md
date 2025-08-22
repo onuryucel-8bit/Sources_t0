@@ -1,5 +1,33 @@
 # Sources_t0
 
+## Graphics
+
+#### [Graphics Programming Resources](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9)
+
+## SFML
+
+#### [SFML-Tutorials](https://github.com/SFML/SFML/wiki/Tutorials#sfml-3)
+
+## Cpp
+
+#### [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
+#### [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming?tab=readme-ov-file)
+#### [LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
+
+## Other
+
+#### [journal.stuffwithstuff](https://journal.stuffwithstuff.com)
+#### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-3d-renderer)
+#### [project-based-learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)
+
+## Compilers
+
+#### [awesome-compilers](https://github.com/aalhour/awesome-compilers?tab=readme-ov-file#learning)
+#### [compilerprogramming](https://compilerprogramming.github.io)
+
+## Assembly
+
+#### [assemblytutorial](https://www.assemblytutorial.com)
 
 ## CPU design
 
