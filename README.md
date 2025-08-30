@@ -42,6 +42,7 @@
 #### [RossMcgowan](https://www.youtube.com/@RossMcgowanMaths)
 #### [CrashCourse/ComputerScience](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 #### [Intermation](https://www.youtube.com/watch?v=2jfoLxQXq3Y&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF)
+#### [MrMcsoftware](https://www.youtube.com/@MrMcsoftware)
 
 - **Albert Paul Malvino** — *Digital Computer Electronics*
 - **M. Morris Mano** — *Computer System Architecture*
