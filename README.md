@@ -46,6 +46,7 @@
 #### [MrMcsoftware](https://www.youtube.com/@MrMcsoftware)
 #### [Chuck's Tech Talk](https://www.youtube.com/@chuckbenedict7235)
 
+- **USBORNE machine-code-for-beginners** - *(https://archive.org/details/machine-code-for-beginners/page/n1/mode/2up)*
 - **Albert Paul Malvino** — *Digital Computer Electronics*
 - **M. Morris Mano** — *Computer System Architecture*
 - **David Harris, Sarah Harris** — *Digital Design and Computer Architecture*
