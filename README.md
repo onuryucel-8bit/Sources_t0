@@ -26,6 +26,7 @@
 
 ## Compilers
 
+#### [Ghassan Shobaki](https://www.youtube.com/@ghassanshobakicomputerscie9478) compiler/os/dsa/Theory of Computation
 #### [awesome-compilers](https://github.com/aalhour/awesome-compilers?tab=readme-ov-file#learning)
 #### [compilerprogramming](https://compilerprogramming.github.io)
 
