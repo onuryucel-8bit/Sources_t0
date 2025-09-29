@@ -15,6 +15,7 @@
 
 ## Cpp
 
+#### [embeddedartistry](https://embeddedartistry.com/blog)
 #### [std::string](https://devblogs.microsoft.com/oldnewthing/20230803-00/?p=108532&utm_source=chatgpt.com)
 #### [fluentcpp](https://www.fluentcpp.com)
 #### [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
