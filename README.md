@@ -43,6 +43,7 @@
 
 ## CPU design
 
+#### [Matt Godbolt on Computerphile](https://www.youtube.com/watch?v=1su3lAh-k4o&list=PLzH6n4zXuckpwdGMHgRH5N9xNHzVGCxwf&index=10)
 #### [nand2tetris](https://www.youtube.com/watch?v=LqirVc5SlW0&list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI&index=1)
 #### [BenEater](https://www.youtube.com/@BenEater)
 #### [ChiliTomatoNoodle](https://www.youtube.com/watch?v=Kbbzwabgtok&list=PLqCJpWy5Fohdz6Nu2yG6Loubocqk3sRNR)
