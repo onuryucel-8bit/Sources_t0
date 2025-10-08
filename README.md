@@ -55,6 +55,7 @@
 #### [MrMcsoftware](https://www.youtube.com/@MrMcsoftware)
 #### [Chuck's Tech Talk](https://www.youtube.com/@chuckbenedict7235)
 
+- **The Manga Guide to Microprocessors** - *(https://books.out.csli.me/NonFiction/Programming/no%20starch%20press/The%20Manga%20Guide%20to%20Microprocessors.pdf)*
 - **USBORNE machine-code-for-beginners** - *(https://archive.org/details/machine-code-for-beginners/page/n1/mode/2up)*
 - **Albert Paul Malvino** — *Digital Computer Electronics*
 - **M. Morris Mano** — *Computer System Architecture*
