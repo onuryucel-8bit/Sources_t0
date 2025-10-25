@@ -1,5 +1,11 @@
 # Sources_t0
 
+## GameDev
+
+#### [collisionDetection](https://www.researchgate.net/publication/374083225_COLLISION_DETECTION_IN_2D_GAMES)
+#### [Charles_blog](https://c.har.li/e)
+#### [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
+
 ## Opengl
 
 #### [learnOpenGL](https://learnopengl.com/Introduction)
@@ -24,6 +30,7 @@
 
 ## Other
 
+#### [hacker-laws](https://github.com/dwmkerr/hacker-laws)
 #### [natureofcode](https://natureofcode.com)
 #### [journal.stuffwithstuff](https://journal.stuffwithstuff.com)
 #### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-3d-renderer)
@@ -31,6 +38,7 @@
 
 ## Compilers
 
+#### [craftinginterpreters](https://craftinginterpreters.com)
 #### [Ruslan](https://ruslanspivak.com/lsbasi-part1)
 #### [teenytinycompiler](https://austinhenley.com/blog/teenytinycompiler1.html)
 #### [Ghassan Shobaki](https://www.youtube.com/@ghassanshobakicomputerscie9478) compiler/os/dsa/Theory of Computation
