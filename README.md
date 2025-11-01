@@ -31,6 +31,7 @@
 
 ## Other
 
+#### [interesting-website](https://blog.binarynonsense.com/interesting-links/#2012)
 #### [hacker-laws](https://github.com/dwmkerr/hacker-laws)
 #### [natureofcode](https://natureofcode.com)
 #### [journal.stuffwithstuff](https://journal.stuffwithstuff.com)
