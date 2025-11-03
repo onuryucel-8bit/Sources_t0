@@ -31,6 +31,7 @@
 
 ## Other
 
+#### [programming-math-science](https://github.com/bobeff/programming-math-science)
 #### [interesting-website](https://blog.binarynonsense.com/interesting-links/#2012)
 #### [hacker-laws](https://github.com/dwmkerr/hacker-laws)
 #### [natureofcode](https://natureofcode.com)
