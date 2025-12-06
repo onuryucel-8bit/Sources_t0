@@ -41,6 +41,7 @@
 
 ## Compilers
 
+#### [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
 #### [craftinginterpreters](https://craftinginterpreters.com)
 #### [Ruslan](https://ruslanspivak.com/lsbasi-part1)
 #### [teenytinycompiler](https://austinhenley.com/blog/teenytinycompiler1.html)
