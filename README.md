@@ -31,6 +31,8 @@
 
 ## Other
 
+#### [The Coding Train](https://www.youtube.com/@TheCodingTrain)
+#### [Molly Rocket](https://www.youtube.com/@MollyRocket)
 #### [programming-math-science](https://github.com/bobeff/programming-math-science)
 #### [interesting-website](https://blog.binarynonsense.com/interesting-links/#2012)
 #### [hacker-laws](https://github.com/dwmkerr/hacker-laws)
