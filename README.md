@@ -1,5 +1,8 @@
 # Sources_t0
 
+## Operating System
+#### [Daedalus Community](www.youtube.com/@DaedalusCommunity)
+
 ## GameDev
 
 #### [collisionDetection](https://www.researchgate.net/publication/374083225_COLLISION_DETECTION_IN_2D_GAMES)
