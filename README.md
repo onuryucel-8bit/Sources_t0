@@ -1,3 +1,10 @@
+# Blogs
+
+####[gpfault](https://gpfault.net)
+#### [Mike Bostock](https://bost.ocks.org/mike/)
+#### [interesting-website](https://blog.binarynonsense.com/interesting-links/#2012)
+#### [journal.stuffwithstuff](https://journal.stuffwithstuff.com)
+
 # Sources_t0
 
 ## Operating System
@@ -34,14 +41,12 @@
 
 ## Other
 
-#### [Mike Bostock](https://bost.ocks.org/mike/)
+
 #### [The Coding Train](https://www.youtube.com/@TheCodingTrain)
 #### [Molly Rocket](https://www.youtube.com/@MollyRocket)
 #### [programming-math-science](https://github.com/bobeff/programming-math-science)
-#### [interesting-website](https://blog.binarynonsense.com/interesting-links/#2012)
 #### [hacker-laws](https://github.com/dwmkerr/hacker-laws)
 #### [natureofcode](https://natureofcode.com)
-#### [journal.stuffwithstuff](https://journal.stuffwithstuff.com)
 #### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-3d-renderer)
 #### [project-based-learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)
 
