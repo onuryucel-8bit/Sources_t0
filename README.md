@@ -1,6 +1,6 @@
 # Blogs
 
-####[gpfault](https://gpfault.net)
+#### [gpfault](https://gpfault.net)
 #### [Mike Bostock](https://bost.ocks.org/mike/)
 #### [interesting-website](https://blog.binarynonsense.com/interesting-links/#2012)
 #### [journal.stuffwithstuff](https://journal.stuffwithstuff.com)
@@ -40,7 +40,6 @@
 #### [LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
 
 ## Other
-
 
 #### [The Coding Train](https://www.youtube.com/@TheCodingTrain)
 #### [Molly Rocket](https://www.youtube.com/@MollyRocket)
