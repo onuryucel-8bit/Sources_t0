@@ -34,6 +34,7 @@
 
 ## Other
 
+#### [Mike Bostock](https://bost.ocks.org/mike/)
 #### [The Coding Train](https://www.youtube.com/@TheCodingTrain)
 #### [Molly Rocket](https://www.youtube.com/@MollyRocket)
 #### [programming-math-science](https://github.com/bobeff/programming-math-science)
