@@ -62,6 +62,7 @@
 ## Assembly
 
 #### [assemblytutorial](https://www.assemblytutorial.com)
+#### [SoftwareArchaeology](https://www.youtube.com/@SoftwareArchaeology)
 
 ## CPU design
 
