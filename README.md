@@ -9,7 +9,7 @@
 
 ## Operating System
 
-#### [Daedalus Community](www.youtube.com/@DaedalusCommunity)
+#### [Daedalus Community](https://www.youtube.com/@DaedalusCommunity)
 
 ## GameDev
 
