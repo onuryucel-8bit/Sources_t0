@@ -8,6 +8,7 @@
 #### [journal.stuffwithstuff](https://journal.stuffwithstuff.com)
 
 ## Operating System
+
 #### [Daedalus Community](www.youtube.com/@DaedalusCommunity)
 
 ## GameDev
