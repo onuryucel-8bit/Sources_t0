@@ -1,5 +1,17 @@
 # Sources_t0
 
+# Conferences
+
+#### [CppCon](https://www.youtube.com/@CppCon)
+#### [GOTO Conferences](https://www.youtube.com/@GOTO-)
+#### [Game Industry Conference](https://www.youtube.com/@RPGPP)
+#### [NDC Conferences](https://www.youtube.com/@NDC)
+#### [code::dive conference](https://www.youtube.com/@codediveconference)
+
+# Retro
+
+#### [The8BitGuy](https://www.youtube.com/@The8BitGuy)
+
 # Blogs
 
 #### [gpfault](https://gpfault.net)
@@ -13,6 +25,7 @@
 
 ## GameDev
 
+#### [JorgeVinoRodriguez](https://www.youtube.com/@JorgeVinoRodriguez)
 #### [collisionDetection](https://www.researchgate.net/publication/374083225_COLLISION_DETECTION_IN_2D_GAMES)
 #### [Charles_blog](https://c.har.li/e)
 #### [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
@@ -32,6 +45,10 @@
 
 ## Cpp
 
+#### [Tsoding](https://www.youtube.com/@Tsoding)
+#### [javidx9](https://www.youtube.com/@javidx9)
+#### [Cherno](https://www.youtube.com/@TheCherno)
+#### [hackingcpp](https://hackingcpp.com/index.html)
 #### [abseil](https://abseil.io)
 #### [embeddedartistry](https://embeddedartistry.com/blog)
 #### [std::string](https://devblogs.microsoft.com/oldnewthing/20230803-00/?p=108532&utm_source=chatgpt.com)
@@ -42,6 +59,9 @@
 
 ## Other
 
+#### [MattGodbolt](https://www.youtube.com/@MattGodbolt)
+#### [Truttle1](https://www.youtube.com/@Truttle1)
+#### [Acerola](https://www.youtube.com/@Acerola_t)
 #### [The Coding Train](https://www.youtube.com/@TheCodingTrain)
 #### [Molly Rocket](https://www.youtube.com/@MollyRocket)
 #### [programming-math-science](https://github.com/bobeff/programming-math-science)
