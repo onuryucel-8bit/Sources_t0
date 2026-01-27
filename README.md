@@ -21,6 +21,9 @@
 
 ## Operating System
 
+- **Operating Systems: Design and Implementation** - *Andrew S. Tanenbaum, and Albert S. Woodhull*
+- **Operating System Concepts** — *Avi Silberschatz, Peter Baer Galvin, and Greg Gagne*
+#### [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 #### [Daedalus Community](https://www.youtube.com/@DaedalusCommunity)
 
 ## GameDev
