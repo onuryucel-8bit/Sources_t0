@@ -64,6 +64,7 @@
 
 ## Other
 
+#### [bithacks](https://graphics.stanford.edu/~seander/bithacks.html#IntegerAbs)
 #### [MattGodbolt](https://www.youtube.com/@MattGodbolt)
 #### [Truttle1](https://www.youtube.com/@Truttle1)
 #### [Acerola](https://www.youtube.com/@Acerola_t)
