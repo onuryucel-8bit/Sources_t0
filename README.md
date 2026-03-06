@@ -78,6 +78,7 @@
 
 ## Compilers
 
+#### [Writing An Interpreter In Go](https://edu.anarcho-copy.org/Programming%20Languages/Go/writing%20an%20INTERPRETER%20in%20go.pdf)
 #### [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
 #### [craftinginterpreters](https://craftinginterpreters.com)
 #### [Ruslan](https://ruslanspivak.com/lsbasi-part1)
